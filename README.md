@@ -4,5 +4,5 @@
 ### Syllabus
 - [Introduction to Machine Learning](https://github.com/reban87/machine_learning_workshop/blob/main/01-introduction/introduction.md)
 - Machine Learning for Regression
-- Machine Learning for CLassification
+- Machine Learning for Classification
 - Evaluation Metrics for Classification
