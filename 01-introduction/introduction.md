@@ -34,6 +34,8 @@ Machine learning and rule-based systems are both approaches to making decisions 
 ### 3. ML vs Deep Learning (DL)
 
 While **Machine Learning** (ML) and **Deep Learning** (DL) both fall under the broader category of artificial intelligence, they are distinct from one another in various ways.
+![image](https://github.com/user-attachments/assets/711cf199-bc68-4ecc-968a-22b81b315486)
+
 
 #### Key Points:
 - **Machine Learning (ML)**:
