@@ -61,5 +61,5 @@ As we can see the 3 nearest neighbors are from category A, hence this new data p
 ## Disadvantages of KNN Algorithm:
 
 - Always needs to determine the value of K which may be complex some time.
-- The computation cost is high because of calculating the distance between the data points for all the training samples.
+- The computation cost is high because of calculating the distance between the data points for all the   training samples.
 
