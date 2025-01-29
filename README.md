@@ -5,4 +5,4 @@
 - [Introduction to Machine Learning](https://github.com/reban87/machine_learning_workshop/blob/main/01-introduction/introduction.md)
 - [Machine Learning for Regression](https://github.com/reban87/machine_learning_workshop/tree/main/02-regression)
 - [Machine Learning for Classification - K Nearest Neighbors (KNN)](https://github.com/reban87/machine_learning_workshop/tree/main/02-knn)
-- Evaluation Metrics for Classification
+- [Machine Learning using Unsupervised Learning](https://github.com/reban87/machine_learning_workshop/tree/main/04-Unsupervised%20Learning)
